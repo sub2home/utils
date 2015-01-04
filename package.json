@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "utils =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sub2home/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sub2home/utils/issues"
+  },
+  "homepage": "https://github.com/sub2home/utils",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.2.1"
+  }
+}
